@@ -15,9 +15,10 @@
     <summary>
       <![CDATA[         
         <h2>Why</h2>
-        <p>Graduation is around the corner, the wind of December passed through my body, took away all the words that I have not dared to say and could not find the meaning to say. Though the road is still foggy ahead, I thought it's time to either embark on a new journey or watch everything rotting for the rest of my life.</p>
+        <p>Graduation is around the corner, implying the end of the first chapter of my life. The wind of December passes through my and carries away all the words that I have not dared to say or have yet to findd the meaning to say. Though the road ahead remains foggy, I believe it's time to either embark on a new journey or watch everything rot for the rest of my life.</p>
         <h2>How</h2>
-        <p>For personal preference, GitHub Pages with plain HTML and CSS should be over-competent, the document is well-written and easy to follow, which leads to a quite smooth experience. I used GPT-4o mini to do most the coding for me. Without much prompt, the color theme and layout it output was basically all I wanted with few minor changes needed. The single frustration I faced was when I tried to add my LinkedIn account which got restricted after login and told me to upload my ID to recover. Haven't posted anything after registering and the only thing that could be wrong were my IP address and browser extensions, I still don't understand the point behind LinkedIn's anti-spam policy.</p>
+        <p>For personal preference, GitHub Pages with plain HTML and CSS is more than sufficient, the document is well-written and easy to follow, which leads to a quite smooth experience. GPT-4o mini did most of the coding for me, and with minimal prompt, the generated color theme and layout was basically all I wanted, requiring only a few minor adjustment.</p>
+        <p>The only frustration I faced was when I tried to add my LinkedIn account, the accout got restricted after login and I was told to upload my ID to recover. I haven't posted anything since registering and the only things that could be wrong were my IP address and browser extensions. It's so difficult to understand the point behind LinkedIn's anti-spam policy.</p>
         <h2>Next</h2>
         <p>1. Automate the process of converting Markdown to HTML, updating archive list and atom file.</p>
         <p>2. Add support for mobile device with small display.</p>
