@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>noboru.top</title>
+  <link href="https://noboru.top"/>
+  <updated>2024-12-12T2:00:00Z</updated>
+  <author>
+    <name>Muze Lyu</name>
+  </author>
+  <entry>
+    <title>Why and How I create my first blog</title>
+    <link href="https://www.noboru.top/blog/why-and-how-I-create-my-first-blog.html"/>
+    <id>https://www.noboru.top/blog/why-and-how-I-create-my-first-blog.html</id>
+    <published>2024-12-12T2:00:00Z</published>
+  </entry>
+</feed>
