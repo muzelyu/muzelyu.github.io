@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>noboru.top</title>
-  <link href="https://noboru.top"/>
-  <link href="https://noboru.top/blog/atom.xml" rel="self"/>
-  <id>https://noboru.top</id>
-  <updated>2024-12-12T3:00:00+00:00</updated>
+  <link href="https://noboru.top/"/>
+  <link href="https://www.noboru.top/blog/atom.xml" rel="self"/>
+  <id>https://noboru.top/</id>
+  <updated>2024-12-12T3:00:00Z</updated>
   <author>
     <name>Muze Lyu</name>
   </author>
@@ -23,7 +23,7 @@
         <p>2. Add support for mobile device with small display.</p>
       ]]>
     </summary>
-    <published>2024-12-12T2:00:00+00:00</published>
-    <updated>2024-12-12T3:00:00+00:00</updated>
+    <published>2024-12-12T2:00:00Z</published>
+    <updated>2024-12-12T3:00:00Z</updated>
   </entry>
 </feed>
