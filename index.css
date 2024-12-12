@@ -24,14 +24,14 @@ h1 {
     color: #333;
 }
 
-.social-links {
+.links {
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
 }
 
-.social-links li {
+.links li {
     margin-left: 20px;
 }
 
@@ -62,7 +62,7 @@ p {
     p {
         font-size: 1.1em;
     }
-    .social-links li {
+    .links li {
         margin-left: 10px;
     }
 }
