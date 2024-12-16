@@ -12,7 +12,7 @@
     <title>Why and How I create my first blog</title>
     <link href="https://www.noboru.top/blog/why-and-how-I-create-my-first-blog.html"/>
     <id>https://www.noboru.top/blog/why-and-how-I-create-my-first-blog.html</id>
-    <summary>
+    <content type="html">
       <![CDATA[         
         <h2>Why</h2>
         <p>Graduation is around the corner, implying the end of the first chapter of my life. The wind of December passes through my and carries away all the words that I have not dared to say or have yet to findd the meaning to say. Though the road ahead remains foggy, I believe it's time to either embark on a new journey or watch everything rot for the rest of my life.</p>
@@ -23,7 +23,7 @@
         <p>1. Automate the process of converting Markdown to HTML, updating archive list and atom file.</p>
         <p>2. Add support for mobile device with small display.</p>
       ]]>
-    </summary>
+    </content>
     <published>2024-12-12T02:00:00Z</published>
     <updated>2024-12-12T03:00:00Z</updated>
   </entry>
